@@ -6,14 +6,6 @@
 
 ### 🛡 Cyber Security | DevOps | DevSecOps | Infrastructure Engineer
 
-## 🌐 Connect With Me
-
-```yaml
-GitHub: https://github.com/CygnusSec
-Email: dylan@cygnussec.com
-Portfolio: https://cygnussec.com/
-```
-
 </div>
 
 ---
