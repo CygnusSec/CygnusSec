@@ -5,4 +5,4 @@
 - Learning more about Cloud Security, MLOps, and LLM Deployment.
 - Make things work and keep them stable.
 
-![](https://github-readme-stats.vercel.app/api?username=CygnusSec&show_icons=true&theme=radical)
+[![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=CygnusSec&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/CygnusSec/github-readme-stats)
