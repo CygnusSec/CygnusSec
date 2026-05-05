@@ -75,16 +75,6 @@ Python / Bash / Golang / PostgreSQL / Redis / RabbitMQ
 
 ---
 
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CygnusSec&theme=matrix&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 ```yaml
@@ -92,11 +82,3 @@ GitHub: https://github.com/CygnusSec
 Email: dylan@cygnussec.com
 Portfolio: https://cygnussec.com/
 ```
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=CygnusSec&color=blueviolet&style=flat)
-
-</div>
