@@ -6,6 +6,14 @@
 
 ### 🛡 Cyber Security | DevOps | DevSecOps | Infrastructure Engineer
 
+## 🌐 Connect With Me
+
+```yaml
+GitHub: https://github.com/CygnusSec
+Email: dylan@cygnussec.com
+Portfolio: https://cygnussec.com/
+```
+
 </div>
 
 ---
@@ -44,7 +52,7 @@ Experience:
 
 ```bash
 # Operating Systems
-Linux / Ubuntu / CentOS / RedHat
+Linux / Arch / Ubuntu / Kali / Black-Arch
 
 # DevOps & Infrastructure
 Docker / Kubernetes / Jenkins / GitHub Actions
@@ -57,8 +65,6 @@ Firewall / VPN / WAF / DevSecOps
 # Monitoring
 Zabbix / Prometheus / Grafana / ELK Stack
 
-# Backend & Automation
-Python / Bash / Golang / PostgreSQL / Redis / RabbitMQ
 ```
 
 ---
@@ -72,13 +78,3 @@ Python / Bash / Golang / PostgreSQL / Redis / RabbitMQ
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CygnusSec&layout=compact&theme=radical)](https://github.com/CygnusSec/github-readme-stats)
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-```yaml
-GitHub: https://github.com/CygnusSec
-Email: dylan@cygnussec.com
-Portfolio: https://cygnussec.com/
-```
