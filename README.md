@@ -85,16 +85,6 @@ Python / Bash / Golang / PostgreSQL / Redis / RabbitMQ
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CygnusSec&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 ```yaml
@@ -102,18 +92,6 @@ GitHub: https://github.com/CygnusSec
 Email: dylan@cygnussec.com
 Portfolio: https://cygnussec.com/
 ```
-
----
-
-## ⚡ Philosophy
-
-<div align="center">
-
-### "Secure. Automate. Scale. Repeat."
-
-### "Stability is built, not hoped for."
-
-</div>
 
 ---
 
