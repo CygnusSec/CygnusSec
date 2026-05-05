@@ -6,6 +6,4 @@
 - Participated in security assessment, incident response, and system hardening
 - Focused on automation, scalability, and secure architecture
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
 [![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=CygnusSec&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/CygnusSec/github-readme-stats)
