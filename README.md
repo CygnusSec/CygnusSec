@@ -19,8 +19,7 @@ Role:
   - DevOps Engineer at bGlobal JSC
 
 Education:
-  - Bachelor's Degree in Cyber Security
-  - University of Science and Technology of Hanoi
+  - Bachelor's Degree in Cyber Security at the University of Science and Technology of Hanoi.
 
 Focus:
   - Infrastructure
