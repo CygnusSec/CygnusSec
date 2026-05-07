@@ -20,6 +20,7 @@ Role:
 
 Education:
   - Bachelor's Degree in Cyber Security at the University of Science and Technology of Hanoi.
+  - Postgraduate student at Graduate University of Science and Technology
 
 Focus:
   - Infrastructure
