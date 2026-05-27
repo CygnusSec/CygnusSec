@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cyber+Security+Engineer;DevOps+%7C+DevSecOps+Engineer;Infrastructure+%7C+Networking+Specialist;Secure+.+Automate+.+Scale" />
 
-# ⚡ Dylan Tran (Tran Dai Duong)
+# ⚡ Dylan Tran
 
 ### 🛡 Cyber Security | DevOps | DevSecOps | Infrastructure Engineer
 
@@ -15,12 +15,9 @@
 ```yaml
 Name: Dylan Tran
 Role:
-  - Researcher at Institute of Information Technology (VAST)
-  - DevOps Engineer at bGlobal JSC
-
-Education:
-  - Bachelor's Degree in Cyber Security at the University of Science and Technology of Hanoi.
-  - Postgraduate student at Graduate University of Science and Technology
+  - Researcher
+  - Cyber Security Engineer
+  - DevOps Engineer
 
 Focus:
   - Infrastructure
