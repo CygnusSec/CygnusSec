@@ -49,10 +49,10 @@ GitLab CI/CD / Terraform / Ansible
 
 # Networking & Security
 Nginx / HAProxy / Reverse Proxy / Load Balancer
-Firewall / VPN / WAF / DevSecOps
+Firewall / VPN / WAF
 
 # Monitoring
-Zabbix / Prometheus / Grafana / ELK Stack
+Zabbix / Prometheus / Grafana / ELK Stack / SIEM
 
 ```
 
